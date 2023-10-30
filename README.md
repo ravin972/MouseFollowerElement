@@ -5,7 +5,7 @@
 Mouse Follower Element is a simple web project that creates an animated element that follows the mouse cursor on the screen. It's built using HTML, CSS, and JavaScript with the GreenSock Animation Platform (GSAP) for smooth animations.
 
 ## LIVE Demo
-Visit - {right side link on top left corner over the label section.}
+Visit - [link](https://mouse-follower-element.vercel.app/)
 
 ## Usage
 
