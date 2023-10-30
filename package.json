@@ -1,0 +1,14 @@
+{
+  "name": "mousefollowerelem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "keywords": [
+    "mfe"
+  ],
+  "author": "ravin972",
+  "license": "MIT"
+}
